@@ -1,0 +1,940 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 74634 ***
+
+language: Finnish
+
+
+
+
+MESTARI GARP
+
+Yksinäytöksinen näytelmä
+
+
+Kirj.
+
+KAARLE HALME
+
+
+
+
+
+Porvoossa,
+Werner Söderström,
+1901.
+
+
+
+
+
+
+HENKILÖT:
+
+GUSTAF AHLSTRAND, tehtaanomistaja.
+ROUVA AHLSTRAND, hänen vaimonsa.
+SIGRID, heidän tyttärensä.
+MESTARI GARP.
+ALFRED, hänen poikansa.
+SOFI, palvelustyttö.
+ERÄS TEHTAALAINEN.
+
+
+
+Ahlstrandin puutarha-asunto. Perällä avoin veranda.
+
+
+ROUVA (Istuu vasemmalla pöydän ääressä ja juo kahvia. Soittaa.) Sofi!
+
+SOFI (Tulee oikealta.) Mitä patrunessa tahtoo?
+
+ROUVA. Tiedätkö missä neiti on?
+
+SOFI. Vastikään istui hän tuolla lehtimajassa, verannan juurella.
+Kutsunko?
+
+ROUVA. Kutsu aamiaiselle!
+
+SOFI. Neiti on jo syönyt aikoja sitten! Mutta hän olikin ylhäällä jo
+silloin, kun tehtaalla puhallettiin aamiaiselle.
+
+ROUVA. Vai niin virkku tänään! Hm! Kyllä minä syynkin arvaan. — No,
+sano, että kahvi jäähtyy.
+
+SOFI (Menee verannalle.) Neiti! Patrunessa kutsuu kahville! (Tulee
+alas.)
+
+ROUVA. Eikö patruuni vielä ole palannut kaupungista?
+
+SOFI. Ei ole. Jos ei lie poikennut tehtaalle. — Mutta ei kai laiva
+vielä ole tullutkaan (Aikoo mennä.)
+
+ROUVA. Kuulepas, Sofi! — En ole muistanutkaan kysyä Sofilta — onko Sofi
+kuullut, — mitä niillä työmiehillä oli hommana viimme sunnuntaina?
+Nehän laumottain olivat liikkeellä tehtaan pihoilla?
+
+SOFI. En ole kuullut. Sitä ei kukaan tiedä.
+
+ROUVA. Kukaan tiedä! (Naurahtaa.) Mitä se merkitsee?
+
+SOFI. Ihan totta. Kaikki ovat vallan mykkiä, kun vaan alkaa sinnepäin
+viittaillakin. — Suureen konesaliin olivat kaikki kokoontuneet. Siellä
+sitten olivat monta tuntia, lukittujen ovien takana.
+
+ROUVA. Sehän kuuluu kovin intressantilta! No, entä — sinun seppäsi?
+Eikö hänkin ollut siellä?
+
+SOFI. Kyllä kai hän lie ollut.
+
+ROUVA. Noo mitäs hän sanoo?
+
+SOFI (Tyytymättömänä.) Eihän se hänkään — sanoo vaan, että — miten se —
+että se vaan oli lepopäivien enteitä. Niin se sanoo.
+
+ROUVA. Oh! Ne kai hommaavat jotakin kesäjuhlaa — kansanjuhlaa,
+arpajaisia, tai muuta sellaista. Sehän on hauska juttu! Siitä olen
+kovin mielissäni. — Hyvä on! (Sofi menee.)
+
+SIGRID (Tulee ulkoa, kirja kädessä.) Huomenta, rakas äiti!
+
+ROUVA. Hyvää huomenta, Sigrid! Tahdotko, että kaadan sinulle kahvia?
+
+SIGRID (Menee istumaan vastakkaiselle puolelle.) Kiitos — minä en
+välitä.
+
+ROUVA. Mitä? Oletko pahalla tuulella?
+
+SIGRID (Pitkäveteisesti.) En juuri — (Selailee kirjaansa.)
+
+ROUVA. Näin herttaisena aamuna pitäisi sinun ihan ilosta säteillä,
+eikä —
+
+SIGRID. Äidin mielestä minulla kai olisikin syytä siihen?
+
+ROUVA. Sinulla on syytä.
+
+SIGRID (Ärtyneesti.) Tahtooko äiti vielä kiusoitella minua, kaiken
+lisäksi?
+
+ROUVA. Kuulepas, Sigrid! Tulehan tänne istumaan — tänne viereeni! Minä
+kerron sinulle jotain Alfredista.
+
+SIGRID (Nousee ihastuneena.) Alfredista! — (pettyneenä.) Jos se on yhtä
+pahaa, kuin eilenkin, niin voit olla kertomatta.
+
+ROUVA. (Ottaa Sigridiä kädestä ja vetää istumaan.) Pahaa? Kutsutko sinä
+sitä pahaksi, mitä isäsi viimmeksi sanoi? Ei hän sanonut mitään, jota
+sinä et myöntäisi oikeaksi, jos vaan järkevästi ajattelisit asiaa.
+Onhan se totta, että Alfred on varaton nuori mies, työmiehen poika.
+
+SIGRID. Onko se hänen vikansa, ettei hänen isänsä ole tehtaanomistaja,
+kuten minun?
+
+ROUVA. Ei se ole hänen vikansa, mutta se on hänen vahinkonsa. No
+niin! Ajattelepas nyt — sinä olet rikkaan miehen tytär, saanut hyvän
+kasvatuksen —
+
+SIGRID. Ensi jouluksi valmistuu Alfred lääketieteen tohtoriksi. Se kai
+vastannee minun kasvatustani.
+
+ROUVA. No, jos niin onkin hänen laitansa! Mutta hänen isänsä, joka
+on päiväpalkkalaisena sinun isäsi tehtaalla! Ymmärrätkö millaiseen
+sukulaisuuteen me joutuisimme tämän avioliiton kautta?
+
+SIGRID (Nousee.) Vanha Garp on yhtä kunnon mies kuin kuka tahansa.
+Eikä siinä ole mitään pahaa, että hän tekee rehellistä työtä. Rakas
+äiti, jättäkäämme nyt tämä asia! Sitte kun Alfred on tullut tohtoriksi
+ja minä täysi-ikäiseksi, menemme me naimisiin. — Näinkö ikävä on tämä
+päivä! Kokonaista kuusi kuukautta olen sitä kuvitellut ihan toiseksi.
+Minä aina kuvailin mielessäni sitä riemua, jonka Alfredin kotiintulo
+herättäisi teissä muissakin. Oh! Hän ei tiedä mitkä ikävät uutiset
+häntä odottavat. Minä melkein toivoisin, että hän ei vielä tulisi
+(Katsoo kelloaan.) Herra siunatkoon! Laiva on jo tullut! Mitä hän
+sanoo, kun en ehtinytkään vastaan.
+
+ROUVA. No, välipä nyt tuolla!
+
+SIGRID. Oh! Mitenkä minä voin sen näin unohtaa!
+
+ROUVA. Onpa hänellä muitakin vastaan ottajia — isänsä esimerkiksi.
+
+SIGRID. Tiedäthän sinä, että ne molemmat eivät ole sovussa keskenään.
+
+ROUVA. Niin, se on totta. Sen olemme kokonaan unohtaneet. Se on
+myöskin hyvin ikävä juttu kaiken lisäksi. Tiedätkö sinä syyn heidän
+eripuraisuuteensa?
+
+SIGRID. Pyh! Eripura...! Kaikkia vielä! Kuinka nyt isän ja pojan
+välillä olisi mitään sellaista!
+
+ROUVA. Vastikäänhän juuri itse sanoit...
+
+SIGRID. Sanoin! Mitä minä sanoin? On kai jonkinlaisia mielipiteitä
+taikka ei ole, en minä tiedä. Tottakai mestari Garp rakastaa Alfredia,
+niinkuin sinä ja isä rakastatte minua. Sehän on vallan... (Katsoo
+kelloaan.) Voi, kun minua harmittaa! Mitä, jos minä vielä ehtisin?
+
+ROUVA. Anna nyt olla! — Kuulepas, minä kokonaan unohdinkin sanoa
+sinulle, mitä oikeastaan aioin. Tulepas nyt istumaan! (Sigrid istuu
+nyrpeänä toiselle puolelle.) No niin tai istu sinne. — Isäsi ja minä
+päätimme, että sinä menisit — kihloihin...
+
+SIGRID (Hypähtää ylös.) En koskaan! Kuuletteko sen.... en koskaan!
+
+ROUVA (Hymyilee.) — saisit mennä kihloihin jouluksi, jos nimittäin hän
+siksi tulee tohtoriksi.
+
+SIGRID (Iloisesti.) Alfredko?
+
+ROUVA. Niin, jos hän tulee tohtoriksi. Muuten ei.
+
+SIGRID (Juoksee äidin luo.) Äiti kulta! Puhutko sinä täyttä totta?
+Alfredko ja minä? Saammeko me mennä kihloihin? (Ottaa äitiään
+kaulasta.) Voi, voi, hyvä, rakas äiti! Kuinka sinä teet minut
+onnelliseksi, minut ja hänet, meidät kaikki!
+
+ROUVA. No, no, Sigrid! Älä nyt tukehuta minua! — Oletko sinä nyt
+onnellinen?
+
+SIGRID. Olen, olen! Minä olen niin onnellinen, onnellinen! (Suutelee
+äitiään.)
+
+ROUVA. Sinä siis rakastat niin suuresti Alfredia?
+
+SIGRID (Nauraa.) No, herranen aika, miten sinä kyselet hassuja!
+Tietysti. (Kuuntelee.) Kuuletko? Vaunujen tärinää lehtokujalla! Isä
+varmaankin tulee. Se hyvä, rakas isä! (Juoksee verannalle.) Äiti, tule
+pian katsomaan — kaksi herraa — toinen on isä, mutta katso nyt äiti!
+tuo toinen (ilohuudolla) on Alfred! (heiluttaa nenäliinaa.) Alfred!
+Terve tuloa! Terve tuloa!
+
+ROUVA. Älä nyt, lapsi kulta, noin kovasti melua!
+
+SIGRID. Voi, voi, kuinka hauskaa! (Kumartuu kaiteelle.) Terve tuloa!
+(Vetää äitiään alas.) Minua niin peloittaa.
+
+ROUVA. Mikä sitten?
+
+SIGRID. Hän näytti niin oudon näköiseltä. Ajatteles, hänellä oli
+täysiparta! (Purskahtaa nauruun.) Parta!
+
+ROUVA. Ole nyt joutavoimatta! Hss! Tulevat jo.
+
+AHLSTRAND (Verannalla.) Piiloileeko Sigrid meidän tuloamme? Vastikään
+hän — (Tulee sisään.) Ah! Täällähän ovat. — Sisään vaan Alfred, sisään!
+No, Sigrid? Mitä arvelet? Tällaisen elävän ne antoivat minulle sieltä
+laivasta. Kurantti-tavaraa, luulisin minä, vai mitä? Ha, ha, ha!
+
+ROUVA. Terve tuloa taas kotiin, tohtori Garp! — Mitenkä satuittekaan
+yhteen, hyvät herrat?
+
+AHLSTRAND. Ainahan sitä sattuu, kun niin tahtoo.
+
+ROUVA. Niin, niin, sinä tahdoit hämmästyttää meitä.
+
+AHLSTRAND (Katsoo Sigridiä.) No, enkö sitten onnistunut siinä, hä?
+— Mutta pyytäkää nyt toki vierasta istumaan! (Tyrkkää Sigridiä
+olkapäähän.) Sinäkin siinä nypistelet näppiäsi ja katselet permantoa
+ja Alfred ei sano sanaakaan. Äh! Juoskaa nyt tuonne verannalle,
+hälventämään vieraantumistanne!
+
+    (Työntää heitä pois.) Soh! Ujoilkaa siellä, jos osaatte!
+    (Alfred ja Sigrid menevät naurain ulos.)
+
+ROUVA. Gustaf! Mitenkä sinä käyttäydyt! Ajattele että...
+
+AHLSTRAND. Äh! Mitä joutavia! Koska hän nyt kerran on minun
+vävypoikani, niin ottakaamme asia semmoisena, kuin se on. Iloinen
+välttämättömyys on parempi, kuin surullinen.
+
+ROUVA. Mutta hienompi käytös...
+
+AHLSTRAND. No, no, mamma, no, no! — Oletko puhunut Sigridille
+kihlauksesta?
+
+ROUVA. Kyllä. Lapsi parka oli ihan ilosta itkeä.
+
+AHLSTRAND. Hm! Ne naiset ovat sitä lemmon...
+
+ROUVA. Gustaf!
+
+AHLSTRAND (Matkien..) Mamma!! Menepäs nyt toimittamaan meille jotain
+haukattavaa! Jahka olemme syöneet, niin menemme Alfredin kanssa
+katselemaan tehdasta. Tahdon näyttää hänelle miten se on edistynyt,
+miten se on —
+
+SOFI (Tulee.) Mestari Garp pyytää puhutella patruunia.
+
+AHLSTRAND. Vai niin. Missä hän on? (Aikoo oikealle.)
+
+SOFI. Hän odottaa tuolla verannan edessä.
+
+AHLSTRAND. Vai siellä (Menee verannalle.)
+
+ROUVA. Sofi! Korjaa pois tämä kahvitarjotin! (Sofi vie tarjottimen.)
+
+AHLSTRAND (Huutaa ulos.) Mestari Garp, tulkaa sisälle! (Tulee alas.)
+Jokohan ukko tuli poikaansa tapaamaan? Olisiko vanha karhu jo
+pehmentynyt?
+
+ROUVA. Sinun pitäisi sanoa hänelle, että sopisivat. — Kuulepas, yksi
+seikka! Kyllä mestari Garpin oikeastaan tämän suhteen tähden pitäisi
+erota toimestaan. Sinun pitäisi —
+
+AHLSTRAND. Eikö lemmossa!
+
+ROUVA. Mutta olisihan varsin sopivata vedota hänen vanhuuteensa ja
+hänen vialliseen käteensä, joka —
+
+AHLSTRAND. — joka ei ole kelpaamaton sentähden, että se on suora.
+Se käsi vastaa montaa kymmentä muuta kättä. Se on minun oikea oikea
+käteni! — — Tuossa hän tulee (Rouva menee pois.)
+
+GARP (On noin 60 vanha, jäntterä ukko.) Hyvää huomenta!
+
+AHLSTRAND (Menee kättelemään.) Huomenta, mestari Garp! Tulkaa
+peremmälle istumaan!
+
+GARP. Minä kävin täällä jo varemmin — aamusella, mutta patruuni ei
+ollut kotosalla —
+
+AHLSTRAND. Tulin vastikään kaupungista. Suuria puuhia! (Istuu.)
+Istukaa! Peijakkaan tiukalle ottaa tuon uuden tilauksen täyttäminen.
+Tiedättehän? Jos saamme paljon aikaa, maksetaan vähän. Jos teemme
+nopeasti, paikkaamme kätemme hyvästi. Nyt on kysymys jäntteryydestä,
+hyvä Garp.
+
+GARP (Rykäisee.) Hm — hm!
+
+AHLSTRAND. Niin, niin — tiedänhän teidän pystyvän ponnistuksiin, teidän
+ja väkenne. Sehän se antaa uskallusta. — Noh, mitä se on, joka —
+
+GARP. Tällä kertaa en kulje tehtaan asioissa. Minä tulen työväen
+asettaman komitean puolesta —
+
+AHLSTRAND. Työväen asettama komitea! Mitä lempoa se merkitsee?
+
+GARP. Muistaahan patruuni tuon keväällisen palkankoroitusjutun?
+
+AHLSTRAND. Niin — entäs sitten?
+
+GARP. Sillä kertaa asia meni myttyyn, johtavien henkilöitten laimeuden
+tähden. Nyt se on uudestaan otettu esille, paremmin järjestettynä.
+
+AHLSTRAND. Ja tuletteko te sellaisen komitean edusmiehenä minun
+luokseni?
+
+GARP. Tulen. Komitean jäsenet saapuvat kohta kaikki tänne. Mutta he
+arvelivat, että asia voisi olla alustettuna jo ennen heidän tuloaan ja
+uskoivat he minulle tämän luottamustoimen.
+
+AHLSTRAND. Minä en käsitä, kuinka te, joka kyllä tiedätte poikanne ja
+minun tyttäreni suhteen, voitte —
+
+GARP. Se asia ei liikuta minua. Ja vaikkapa liikuttaisikin, se ei
+sittenkään muuttaisi koroitusvaatimusta työväen palkkasuhteissa.
+Ovathan ne kaksi eri asiaa.
+
+AHLSTRAND (Ärtyneenä.) Te uskallatte vielä puolustaa esiintymistänne
+tässä asiassa!
+
+GARP. Minä olen sivuseikka, enkä puolusta itseäni. Minä puolustan
+työväen tilan parantamista. Teidän tehtaanne työväestön palkkasuhteet
+ja työjärjestelmä ovat asetettavat sopusuhtaisiksi ajan vaatimusten
+kanssa.
+
+AHLSTRAND. Ja tätä minä saan kuulla, minä, joka aina olen pitänyt
+silmällä työväen parasta, hankkinut sille lainakirjaston, perustanut
+apukassan, toimittanut lukusalin ja hommannut parhaani mukaan
+työmiesteni eduksi. — Mutta minä huomaan siinä tehneeni tyhmästi, hyvin
+tyhmästi. Jota enemmän teille antaa, sitä enemmän te pyydätte.
+
+GARP. Me emme pyydä mitään liikaa. Eikä vaatimuksemme ollenkaan
+ole ennenaikainen. Katselkaapa vaan vähän tarkemmin tämän tehtaan
+edistystä! Sen huomaatte menneen huimaavaa vauhtia eteenpäin ja
+tuottaneen teille melkoiset voitot pääomastanne. Verratkaa taas
+siihen työmiehen toimeentuloa, joka on muutamissa ruoka-aterioissa ja
+vaaterievuissa.
+
+AHLSTRAND. Se ei ole totta! Teillä kaikilla on hyvä toimeentulo.
+
+GARP. Hyvä! Meidän toimeentulomme on kädestä suuhun ja hyvin lyhyellä
+välimatkalla.
+
+AHLSTRAND (Ivallisesti). Teidänkin?
+
+GARP. Minä puhun vaan yleisesti. — Jos sitten mennään tarkastamaan
+tehtaan kaunistettuja ympäristöjä. Oletteko pannut muistiinne, montako
+tuhatta on sinne uhrattu? Tosi kyllä, ei tarpeettomasti, mutta
+ennenaikaisesti, sillä jos vertaatte työmiesten hökkeleitä noihin
+kaikellaisiin istutuksiin, niin huomaatte, että toisen kustannuksella
+on viety toista eteenpäin.
+
+AHLSTRAND. Tehän olette oikein parlamenttaarinen, hyvä Garp! — Minä
+sanon teille suoraan, että minä en suvaitse esitelmiä. Sanokaa minulle
+ainoastaan mitä te vaaditte, niin vastaan minä siihen.
+
+GARP (Ottaa taskustaan paperin.) Tässä ovat kaikki ehdotukset lähemmin
+suunniteltuina.
+
+AHLSTRAND (Ottamatta paperia.) Ja ne ovat?
+
+GARP. Pääasiallisesti ovat meidän vaatimuksemme tähdättyinä 20
+prosentin palkankorotukseen.
+
+AHLSTRAND (Naurahtaa kuivasti.) Eikö muuta!
+
+GARP. Sitten —
+
+AHLSTRAND (Vakavasti.) Riittää! Edellisinä vuosina, parempien aikojen
+vallitessa ajattelin minäkin osallista palkankoroitusta, erittäinkin
+muutamilla aloilla. Mutta se oli minun onneni, etten sitä tehnyt. Nyt
+olisin saanut sitä katkerasti katua. Minä ja te saamme tällaisina
+aikoina kiittää onneamme, että pysymme pystyssä ja kiittää, että saamme
+pitää sen toimeentulon mikä meillä on.
+
+GARP. Saman vastauksen annoitte jo keväällä.
+
+AHLSTRAND. Ajat eivät ole siitä muuttuneet. Saman annan nytkin.
+
+GARP. Te siis kiellätte?
+
+AHLSTRAND. Tietysti.
+
+GARP. Sitten olen minä pakoitettu —
+
+AHLSTRAND (Tiuhasti,) Mestari Garp! Minä ehdottaisin, että te
+jättäisitte toimenne tehtaassa. Te olette jo vanha mies ja —
+
+GARP. Hm! Se oli jotenkin selvä huomautus. Mutta minulla ei ole oikeus
+tällä kertaa puhua siitä. Työväen kokous on päättänyt —
+
+AHLSTRAND. Työväen kokous! (Ivallisesti.) Milloin sellainen on ollut?
+
+GARP. Viime sunnuntaina. Se päätti, että kaikki työ lakkautetaan heti,
+jos te annatte kieltävän vastauksen.
+
+AHLSTRAND. Mitä? Työlakko! — Oletteko te järkenne menettänyt? Ettekö te
+vastustanut sellaista hurjaa, typerää päätöstä?
+
+GARP. En.
+
+AHLSTRAND. Mies! Uskallatteko te seistä minun edessäni ja sanoa tuota!
+Oletteko te rohjennut suostua sellaiseen hulluuteen? Rohkenetteko
+myöskin ottaa omalletunnollenne seuraukset? (Ääniä kuuluu ulkoa.)
+
+GARP. Siellä tulevat minun toverini. Huomatkaa — meitä on monta
+omaatuntoa.
+
+AHLSTRAND. Tiedättekö mitä, mestari Garp? Minä olen aivan kuin puulla
+päähän lyöty. Jos joku muu olisi tullut luokseni samalle asialle,
+olisin sen ymmärtänyt mahdolliseksi. Mutta tätä minä en ymmärrä. Minä
+en ymmärrä, että te —
+
+GARP. Minä —
+
+AHLSTRAND (Kiivaasti.) Niin — te! (Äänettömyys.) Te otatte ajaaksenne
+koko joukon puolesta sellaista asiaa, jossa teidän ensimmäisenä tulisi
+seistä minun rinnallani, minun ja tehtaan puolella.
+
+GARP. Minä olen —
+
+AHLSTRAND. — sen ennen tehnyt. Niin — ennen! Piruko teitä nyt riivaa?
+
+GARP. Itse asia on —
+
+AHLSTRAND. Asia on sama, kuin ennenkin. Minä olen sama, tehdas on sama
+ja te olette sama. Ennen olimme me kolme aina yhtenä miehenä. Yksi
+kaikkien ja kaikki yhden puolesta. Jo 30 vuotta olen luottanut teihin
+aivan kuin itseeni. Monessa asiassa enemmänkin. Ja tätä luottamusta
+ette ole kertaakaan pettänyt. — Voiko enään ajatella mahdolliseksi —
+ette kertaakaan?
+
+GARP. Voi — ajatella. Minä en silmänräpäystäkään ole vilpistellyt
+tehtävissäni.
+
+AHLSTRAND. Siksipä tämä onkin niin odottamatonta — niin peräti
+mahdotonta mieheltä, joka on aina palvellut minua uskollisesti.
+
+GARP. Uskollisesti kyllä palvellut. Mutta minä en ole ollut teidän
+orjanne. Minä olen palvellut aatettani, enkä teitä. Minä olen tehtaan
+eduksi tehnyt kaikki voitavani, sen kehitykseksi uhrannut koko elämäni,
+voidakseni kerran tuoda esiin uusia vaatimuksia, nousta teitä vastaan,
+jos tarvitaan. Tässä on ollut periaate —
+
+AHLSTRAND. Sosialistinen periaate hurjimmassa äärimmäisyydessä! — Onko
+teiltä itseltä mitään puuttunut? Tai puuttuuko nyt? Olette aina saanut
+määrätä oman palkkanne — saatte nytkin —
+
+GARP (Viittaa ulospäin.) Meitä on useampia suita, kuten —
+omiatuntojakin.
+
+AHLSTRAND (Tarkastelee- Garpia mietteissään.) Miksei myöskin
+useammanlaatuisia omiatuntoja! (Kävelee ympäri.) Voisi koettaa — hm —
+(Aikoo sanoa jotain Garpille. Jää katsomaan Garpia sivulta.) Kun vaan
+ei — tosiaan, kun vaan ei — (Kävelee ympäri. Pysähtyy äkkiä — ottaa
+kiinni otsastaan, ajattelee, aikoo kääntyä mennäkseen perälle, mutta
+jää paikalleen.) Hm — hm — hm! (Yhtäkkiä päättävästi.) Se käy (Menee
+verannalle.) Hyvää huomenta, ystävät! Minä olen ihan hämmästynyt siitä
+päätöksestä, jonka mestari Garp on ilmoittanut teidän tekemäksenne,
+koskeva palkankoroitusta juuri näinä ahtaina aikoina. Minä en usko,
+että te miettimällä ja tositarpeen pakoittamina omintakeisesti olette
+ryhtyneet tähän asiaan, vaan uskon kernaammin, että yllyttäjät —
+
+ÄÄNIÄ. Ei, ei, ei!
+
+AHLSTRAND. Kaikissa tapauksissa tahdon nyt keskustella teidän
+kanssanne —
+
+ERÄS ÄÄNI. Missä on mestari Garp? Hänellä on puhevalta. Me yhdymme
+kaikkeen, mitä hän sanoo ja päättää.
+
+ÄÄNIÄ. Niin, niin, niin!
+
+AHLSTRAND (Tulee kiivaasti alas.) Enkös sitä arvannut! Te, te yksin
+olette pää tässä jutussa! (Alfred ja Sigrid tulevat verannalle.) Te
+olette kiihoittanut heitä, muuten eivät he antaisi teille rajatonta
+toimintavaltaa. Kyllä minä nyt ymmärrän, mikä mies te olette. Teihin on
+tarttunut uudet virtaukset, niinkuin myrkky. Te olette ne omistanut,
+vaikka ette niitä ymmärrä. Te olette saanut ylpeyden kuumeen ja
+tahdotte esiintyä johtajana, vaikka ette siihen pysty. Äh! Sellaista
+typeryyttä! Koetetaanpas, kumpi meistä voi enemmän vaikuttaa heihin —
+te, taikka minä (Aikoo perälle, mutta huomatessaan Alfredin ja Sigridin
+saa uuden ajatuksen. Pysähtyy — kääntyy ympäri — katsoo Garpia.) Ehkä —
+
+GARP (Levollisesti.) Puhutelkaa tovereitani — saatte kuulla!
+
+AHLSTRAND. (Seuraa entistä ajatustaan.) Ehkä — (Kääntyy perälle.)
+Tulkaa lähemmäksi! — Tässä näette heti kaksi ihmistä, joitten
+onnellisuuden te revitte sirpaleiksi. Toinen on oma poikanne ja toinen
+on minun tyttäreni. Tämä suhde on nyt loppunut. Lapset saavat kärsiä
+isäinsä tähden. Sigrid! (Ottaa häntä kädestä.) Poistu täältä, Sigrid!
+
+SIGRID. Isä!
+
+AHLSTRAND. Poistu! Minä tulen heti perässä (Sigrid menee nyyhkien.)
+Alfred! Sinä näytät hyvin hämmästyneeltä ja siihen sinulla on
+syytäkin. — Tässä seisoo sinun isäsi, joka vanhana miehenä on
+kylliksi poikamainen ja lastansa kohtaan kylliksi petomainen,
+väliäpitämättömästi saattaakseen sinut onnettomaksi. Ei koskaan
+voi tulla kysymykseenkään, että minun tyttäreni joutuisi vaimoksi
+miehelle, jonka isä on noussut tällä tavalla minua vastaan. Joka tällä
+tavalla voi leikitellä monen sadan ihmisen asemasta ja toimeentulosta.
+Joka tällä tavalla voi herättää kapinallista henkeä ympärilleen,
+käsittämättä, että hän myrkyttää ilmankin, jossa hän liikkuu. Hyvästi,
+hyvät herrat! Nyt tahdon puhutella tovereitanne — mestari Garp! (Menee
+verannalle.) Kaikki, jotka eivät tyydy entisiin ehtoihin, ovat heti
+vapaat tehtaan palveluksesta ja saavat mennä konttooriin nostamaan
+sisällä olevan palkkansa.
+
+GARP (Hämmästyneenä.) Olisiko se — mahdollista!
+
+ÄÄNIÄ. Mestari Garp! Missä on Garp?
+
+AHLSTRAND (Tulee alas.) Etupäässä te, mestari Garp! (Menee oikealle.)
+
+ALFRED (Vaitiolon jälkeen.) Vai niin, isä! Tämän te teette minulle! Ei,
+älkää menkö! Meidänkin keskenämme pitää selvittää tämä asia.
+
+GARP. Tämä ei ole oikea paikka meidän keskusleluillemme.
+
+ALFRED. Jos ei paikka ole oikea, niin on aika sitä sattuvampi.
+Meidän tiemme ovat olleet eroitetut jo kauvan. Ettekö te koskaan ole
+aavistanut, että ne kerran taas yhtyisivät? Nyt ne ovat yhtyneet. Nyt
+on tullut ratkaiseva hetki. — Minä tunnen teidän itsepintaisen, jyrkän
+katsantokantanne. Se antaa minulle oikeuden sanoa teille, että te
+olette tämän työlakon suunnittelija. Te olette kylmäverisesti seurannut
+aatettanne, jonka pidätte oikeana. Mutta minä kysyn teillä, eikö jo
+näkemänne seuraukset ollenkaan koske teidän sydämmeenne? Isä, vielä
+on aika peräytyä. Antakaa tunteillenne valtaa älkääkä silmittömästi
+seuratko kunnianhimonne viettelystä! Jos ette minusta välitä, niin
+ajatelkaa tuon nuoren tytön kohtaloa. Jos ette välitä hänestäkään, niin
+ajatelkaa, että mahdollisesti saatatte satoja perheitä työttömiksi,
+leivättömiksi. — Te ette vastaa? Tässä on juuri se kysymys, joka
+on meidät eroittanut, Te uskotte, että työväen tilan parantaminen
+ja tasa-arvoiseksi tekeminen voi käydä tuollaisilla äkkinäisillä
+rynnäköillä, joiden yllykkeinä on ainoastaan tieto ala-arvoisuudesta
+ja joiden voimana on sydämmettömyys. Mutta sivistys, te ette ollenkaan
+ota sitä vaakalautaan. Te kohotatte kaikki työmiehet teidän rinnallenne
+sentähden, että he ovat työmiehiä, ja itsenne kohotatte taas muitten
+rinnalle sentähden, että luulette olevanne siihen oikeutettu enemmistön
+nimessä. Teidän punnitustapanne on miesluku.
+
+GARP. Tuollaisilta vastaväitteiltä olen jo monta kertaa purrut pään
+poikki. Toimeentulo — toisin sanoen, palkankoroitus on ensimmäinen ehto
+työmiehen sivistykseen.
+
+ALFRED. Ja tämän tarkoitusperän nojalla olette te valmis kukistamaan
+mitä eteenne sattuu. Sydämmellisyys on heikkoutta ja tunteet ovat
+tuulahduksia teidän mielestänne. Niin olette aina sanonut.
+
+GARP. Työmiehen katkera elämänkokemus opettaa sellaista.
+
+ALFRED. Mutta uskotteko te, että elämän katkeruus on todellakin
+kokonaan haudannut teidän tunteenne? Ettekö koskaan elämässänne tulisi
+katumaan sitä, että olette oman poikanne saattanut onnettomaksi? — Ehkä
+ette. Teidän vaitiolonne todistaa sitä.
+
+GARP. Sinä et koskaan ole ollut minulle — oikea poika.
+
+ALFRED. Oikea poika kai sentään, mutta ehkä en teidän mielenne
+mukainen poika. Ja miksi minä en sitä ole ollut? Minulta ainakaan ei
+ole puuttunut rakkautta teihin. Mutta sen te aina olette työntänyt
+halveksien luotanne.
+
+GARP. Ämmien loruja!
+
+ALFRED. Niin olette usein vastannut, sekä äitivainajalle että minulle.
+Äidistä sentään lopulta piditte. Hän oli viisas nainen, joka tunsi
+kohtalonsa sidotuksi mieheensä ja näki parhaaksi puolustaa teidän
+yksiviivaisia mielipiteitänne. Tottuipa lopulta — ehkä naisellisesta
+vaistosta — kiihottamaankin teitä.
+
+GARP. Hän ja minä olimme yksi. Mutta sinä olet aina tehnyt parhaasi
+kotirauhan hyväksi — omalla tavallasi! (Nauraa ivallisesti.) Niinkuin
+nytkin!
+
+ALFRED. Aina sama juttu! Minun olisi pitänyt jäädä työmieheksi. Teidän
+mielestänne tein minä rikoksen koko luontoa vastaan, kun jatkoin
+opinnoitani ja tahdon "päästä herraksi", kuten te aina olette ivalla
+kutsunut minun pyrinnöitäni.
+
+GARP. Jos työmiehen pojasta vahingossa tuleekin herra, niin pitää hänen
+korjata erehdyksensä antautumalla työväen aatteen ajajaksi. Sitä sinä
+et koskaan ole ymmärtänyt. Siksi minäkään en tahdo ymmärtää sinua.
+
+ALFRED. Isä! Oletteko te todellakin valmis kylmällä mielellä uhraamaan —
+
+GARP. Äh! (Katselee Alfredia.) Sinähän olet mahtava miehen alku! Ei
+puutu enään muuta, kuin itkun ulina ja voivotukset. Hyi!
+
+ALFRED. (Pitkän vaitiolon jälkeen.) Hyvästi sitten, isä! Tässä eroavat
+meidän tiemme nyt — ijäksi.
+
+GARP. Mahdollista kyllä. Sentähden sanon sinulle vielä kerran, sinä et
+käsitä näitä asioita. Sinä et ole työmies, etkä ymmärrä missä määrin
+meidän vaatimuksemme ovat oikeutettuja, tai ei. Siitä en sinulle voi
+puhuakaan. Mutta on olemassa eräs toinen asia, jota sinä rehellisen
+miehen poikana ymmärtänet paremmin. Se toinen on kunnia. Ajattele,
+että minä, vakuutettuna asiani oikeudesta ja kohtuullisuudesta, olen
+uskaltanut ensimmäisenä julkilausua toivomukseni tovereilleni. Ja
+ajattele, että minä olen saavuttanut heissä vastakaikua aatteilleni.
+Ajattele vielä, että he, kaksi sataa miestä, ovat uskoneet minulle
+asiansa, jonka ajamisesta heillä on takauksena minun kunniani —
+kunniani, joka ei olisi penninkään arvoinen sen jälkeen, kun saisivat
+tietää minut petturiksi. Ja millä tavalla petturiksi? Petturiksi
+siitä syystä, että minun poikani pyrkii rikkaisiin naimisiin, joka
+heidän käsityksensä mukaan minuakin hyödyttäisi. He sanoisivat minua
+konnaksi, joka itsekkäistä syistä on pettänyt yhteisen asian. Voisitko
+sinä olla poika sille isälle, joka ei uskaltaisi enään näyttäytyä
+kadulla, eikä esiintyä muiden joukossa.
+
+ALFRED. Tämä on katkeraa. Ja tähänkö päämäärään piti teidän
+sosialisuutenne johtuman! (Katselee hellästi isäänsä.) Isä! — Isä!
+Tuossa seisotte te horjumattomana ja voitonvarmana rakentamassa muitten
+ihmisten, ventovierasten ihmisten onnea ja tulevaisuutta. Jääkylmänä
+te sitä rakennatte. Ja samalla jääkylmällä mielellä uhraatte oman
+poikanne onnen ja tulevaisuuden — oman poikanne, joka on kuitenkin
+teidän omaa vertanne ja lihaanne ja jota te kuitenkin olette kerran
+rakastanut. — Nyt te seisotte ehkä minun tulevaisuuteni mestauspölkyn
+vieressä, katselemassa toimitusta vallan tunteettomana. — Miksi siis
+oman henkenne uhalla tartuitte voimakkaalla kädellä väkipyörän hihnaan
+ja estitte minut poikapahaisena musertumasta tehtaan hammasrattaisiin.
+Miksi sen teitte? Silmänräpäyksen kärsiminen pienelle, avuttomalle
+olennolle olisi estänyt nämät murhaavat tuskat ainakin kahdelta
+ihmiseltä. Miksi uskalsitte oman kalliin henkenne mokoman roskan
+tähden? Mikä antoi teille jättiläisen voimat? Mikä antoi teille
+harvinaisen sitkeyden ja kestävyyden, kun kannoitte minut pyörtyneenä
+kotia asti, vaikka pelastustyössä taitoitte toisen käsivartenne? Sitäkö
+varten teitte tällaisia hämmästyttäviä töitä, joita vuoskymmeniä
+kertoillaan, että nyt saisitte minut henkisesti surmata oman
+väkipyöränne voittokulkuun? Isä — tämä on luonnotonta. Olenhan
+minä kuitenkin teidän oma poikanne, joka taas on hengenvaarassa,
+taas hukkumaisillaan. — Mitä merkitsee teille muutamien ihmisten
+kymmen-penniset, jos te hankitte ne oman verenne kustannuksella.
+Ovatko nuot sadat vieraat teille enemmän, kuin oman itsenne eläminen
+onnellisissa jälkipolvissa?
+
+GARP (Kääntyy poispäin liikutettuna.) Lapsellisuuksia!
+
+SIGRID (Tulee oikealta. Juoksee Alfredin kaulaan.) Alfred, Alfred. Minä
+en tahdo luopua sinusta. Kuuletko, sinä et saa minua hyljätä! — Isä
+sanoi, että hän antaa minulle kirouksensa, jos minä en tottele. Mutta
+en minä sellaista ymmärrä. Vastikään hän sanoi ihan toista. Minä en
+käsitä, että näin yhtäkkiä —
+
+ALFRED. Mitä tähän sanotte, isä?
+
+SIGRID (Menee Garpin luo.) Mestari Garp! Mitä kauheata te isältä
+vaaditte? Sanokaa, mitä se on? Ettekö te voi peruuttaa vaatimustanne,
+kun näette miten se tuottaa onnettomuutta? (Ottaa Garpia kaulasta.) Isä
+Garp! Enkö minä aina ole pitänyt teistä, aina ollut teille hyvä? Mitä
+pahaa olen teille tehnyt ja mitä Alfred on tehnyt, koska ette ollenkaan
+välitä meistä? — Muistatteko miten hyvä te aina ennen olitte, kun olin
+pikkutyttönä? Silloin taluttelitte minua ympäri tehdasta ja näyttelitte
+minulle kaikkea. Ja nyt, kun minä olen kasvanut isommaksi, hylkäätte te
+minut. Onko se sentähden, että minä rakastan Alfredia? Vihaatteko te
+häntä niin kovasti?
+
+GARP (Liikutettuna.) En, hyvä neiti —
+
+SIGRID. Neiti! Sanokaa Sigrid, niinkuin ennenkin! Olemmehan nyt vielä
+lähempänä, kuin ennen. Rakastanhan minä teitäkin, rakastaessani
+Alfredia.
+
+GARP. En minä Alfredia vihaa, vaikka erimielisyys onkin kylmentänyt
+meidän välimme.
+
+SIGRID. Sellaista minä en ymmärrä. Se ei ole luonnollista! Minä tiedän
+vaan, että Alfred rakastaa teitä. Rakastaa kaikesta sydämmestänsä.
+Sen hän on monta kertaa minulle sanonut. Ja minä rakastan myöskin
+teitä. Rakastan, kuin toista isääni. Sehän on ihan luonnollista. Eikö
+siis myöskin ole luonnollista, että te rakastatte meitä molempia? Isä
+Garp! Sanokaa että rakastatte, sanokaa! Ettehän te muuta voi, ettehän?
+(Heittäytyy Garpin kaulaan.)
+
+AHLSTRAND (Tulee. Rouva seuraa häntä.) Mitä lempoa! Sigrid!
+
+ROUVA (Lempeästi,) Sigrid! Tule luokseni! (Sigrid menee äitinsä
+kaulaan.)
+
+AHLSTRAND. No, miksi vielä olette täällä? Mitä vetelehtimistä tämä on?
+Kuulittehan päätökseni — tai ehkä jo viisastutte, ehkä peräännytte?
+
+GARP (Heikosti.) Emme me peräänny —
+
+AHLSTRAND (Kavalasti.) Mestari Garp! Te olette ollut minun
+työtoverini jo 30 vuotta. Ja mikä vielä enemmän, minun ystäväni.
+Menkää nyt tehtaalle ja ilmoittakaa, että minä en voi suostua teidän
+vaatimuksiinne. Minä en voi. Sanokaa se! — Tämän jälkeen minulla ei ole
+muuta tekemistä teidän kanssanne. Ja te Alfred, tyytykää kohtaloonne!
+Te olette kuullut viimmeisen sanani.
+
+SIGRID. Isä, rakas isä!
+
+AHLSTRAND. Ei sanaakaan, lapseni! Valitse vanhempiesi ja sulhasesi
+välillä — sen olen jo sanonut.
+
+SIGRID (Neuvottomana.) Hyvä Jumala! (Vaipuu tuolille.)
+
+GARP. Herra patruuni! Tämä on liian kova kokemus noin nuorille
+ihmisille. Se on — minun syyni, eikä hänen, Alfredin. Minä olen koko
+miehuuteni ajan elänyt aatteessani vaan järjellisesti, ottamatta
+ollenkaan lukuun sydäntä — sitä olen halveksinut — hän on ollut sydän
+— hänellä on äitivainajansa luonne — minä olen toista maata, kuin ne
+molemmat — minä ehkä olen yksipuolinen — minä — poikani Alfred — (Antaa
+Alfredille kätensä.) Alfred — poikani!
+
+ALFRED. Isäni!
+
+AHLSTRAND. Kas noin — kas noin (Hätäillen.) Mamma ja te lapset,
+poistukaa hetkeksi tuonne sivuhuoneesen! Kas niin. Menkää! — No, no!
+Ei mitään erityistä. Me ratkaisemme tämän asian mestari Garpin kanssa.
+Me kaksi näitä ymmärrämme. Pitäkää hetkisen seuraa toisillenne!
+(Rouva, Sigrid ja Alfred menevät.) Istukaa, Garp! Puhelkaamme asiasta
+rauhallisesti! Tässä on kysymys vaan afääristä. Ratkaiskaamme se siis
+kuten afäärikysymys! Tyyneesti ja rauhallisesti. Koko jutun ratkaisu
+riippuu siitä, että te uskotte mitä minä tulen sanomaan.
+
+GARP. Ja myöskin siitä, että te uskotte mitä minä sanon. Meidän
+vaatimuksemme —
+
+AHLSTRAND. Niinpä niin, tietysti. Ainahan minä olen teihin luottanut.
+Etupäässä teihin. — No niin! Nyt on kysymys kohdistettava yksinomaan ja
+ainoastaan tähän uuteen, suureen tilaukseen. Sen onnellinen täyttäminen
+tulee vakaannuttamaan tehtaani tulevaisuuden. Mutta kaikki on laskettu
+nykyisten palkkasuhteitten mukaan. Tilaus-sitoumus tulee kestämään
+parisen vuotta ja —
+
+GARP. Ja niin kauvan pitäisi meidän odottaa —
+
+AHLSTRAND. Malttakaahan! Tämän tilauksen hyvin täyttämisestä riippuu
+koko tulevaisuus —
+
+GARP. Jos tahdotaan saada työ hyvin tehdyksi, niin pitää työväki pitää
+tyytyväisenä.
+
+AHLSTRAND. Sitä tarkoitankin. Mainitsemani ajan jälkeen olen valmis
+keskustelemaan —
+
+GARP. Mutta ette nyt?
+
+AHLSTRAND. Nyt en voi. Sanoinhan.
+
+GARP. Te ette tahdo?
+
+AHLSTRAND (Hetken vaitiolon jälkeen.) En. Jos teette työlakon, annan
+minä liikkeen seisahtua. Hankin uutta työväkeä ja alan alusta.
+
+GARP. Sitä en usko.
+
+AHLSTRAND. Ei siis maksa vaivaa jatkaa keskustelua. — Te olette
+eroitetut toimestanne. Tyttäreni ei mene poikanne kanssa naimisiin.
+Loput hoitakaa miten tahdotte! Työlakolla saatte satoja ihmisiä
+leivättömiksi, poikanne ja minun tyttäreni onnettomiksi, mutta ette
+etuja työmiehille. Peruuttamalla vaatimuksenne pysyy työväen tila
+ennallaan, leipää ja lämpöä on kaikilla ja lastemme onni on taattu.
+Näin on asia todellisuudessa. Olkaa nyt viisas!
+
+GARP. Totuus, totuus! Sanokaa minulle totuus! Ettehän te voi liikettä
+seisauttaa?
+
+AHLSTRAND. Jos te sitä epäilette ja olette kyllin uskalias kokeilemaan,
+niin tehkää se! Kun työväki näkee, että sen voin, ryhtyy se työhönsä,
+mutta lapsemme eivät tule onnellisiksi. Vielä kerran — olkaa viisas!
+
+GARP (Melkein itsekseen.) Tässä sitä nyt ollaan! Aina olen pelännyt
+tunteitten vaikutusta. Minä olin sortumaton, kun elin vaan aatteissani.
+Mutta nyt — oh, mestari Garp! mitä teet sinä nyt?
+
+AHLSTRAND. Olkaa viisas!
+
+GARP. Mitä pitäisi minun sanoa tovereilleni?
+
+AHLSTRAND. Sanoa totuus.
+
+GARP. Totuus? Totuus! (Katsoo terävästi Ahlstrandia.) Mikä on totuus?
+
+AHLSTRAND. Muistatte kai mitä olen sanonut.
+
+GARP. Entäs — onko mitään ehtoja?
+
+AHLSTRAND. Ei oikeastaan. Kaikissa tapauksissa eroatte te tästä
+päivästä alkaen tehtaan palveluksesta ja asetutte johonkin toiseen
+toimeen, tai asutte poikanne luona, miten haluatte. Teiltä ei tule
+mitään puuttumaan.
+
+GARP. Minäkö eroaisin tehtaasta? Erotettaisiin! Minä, joka olen
+elinaikani tehnyt työtä voimieni takaa tehtaan eduksi. Tässäkö on
+sitten kaiken loppu? Tässäkö se päämäärä, johon olen pyrkinyt?
+
+AHLSTRAND. Teidän hyviä palveluksianne tehtaan eduksi en tule
+unohtamaan. Siitä voitte olla varma. Siinähän on kauniisti saavutettu
+päämäärä.
+
+GARP (tuijottaen eteensä.) Minun päämääräni oli toinen, kaukaisempi.
+Minä tahdoin tehtaan hyvillä asioilla saavuttaa työväelle mitä
+mahdollisimpia, hyviä etuja. Mutta nyt on — kaikki rauennut.
+
+ÄÄNIÄ. Mestari Garp! Mestari Garp!
+
+GARP (Vavahtaa.) Herra patruuni! Te ymmärrätte — te kyllä käsitätte,
+te — oh! en tiedä mitä sanoisin — minä pyydän — te voitte kyllä, jos
+tahdotte — suostukaa edes osalliseen korotukseen — suostukaa — ottakaa
+minun palkkani —
+
+AHLSTRAND. No, no ukko — tehän houritte!
+
+GARP (Koleasti.) Sitten — sitten — Jumalan nimeen! Minä liityn noihin
+uhalla kaiken — taistelen ja sorrun heidän kanssaan — minä —
+
+AHLSTRAND. Mestari Garp! Jo on aika lopettaa! Jos vielä uskallatte
+kiihottaa ainoatakaan miestä, ilmoitan heille heti teidän erottamisenne
+ja samalla sen horjumattoman päätökseni, että jokainoa, joka uskaltaa
+teihin liittyä, on armotta menettänyt paikkansa tehtaassa nyt ja
+vastaisuudessa. Ne taas, jotka eivät sitä tee, tulen palkitsemaan
+monenkertaisesti. Olkaa varma, että suurin osa heistä on liian suuria
+raukkoja, tai sanokaamme liian viisaita, kannattaakseen teitä. Ja
+muistakaa — minä sanon sen teille viho viimmeisen kerran, koko jutussa
+te ette voi tehdä muuta, kuin kaksi asiaa, joko rakentaa, tai sortaa
+lastemme onnen. Muistakaa, se on ainoa, mitä te voitte! Siis — olkaa
+viisas!
+
+GARP (Ankaran taistelun jälkeen.) Minä olen vanha mies — olen jo aikani
+elänyt — minä voin poistua — poistua Alfred-poikani eduksi. Kyllähän
+se tuntuu vähän katkeralta noin yhtäkkiä uhrata vuosikausien toivon
+ja vakuutuksensa ja — kunniansa. Mutta minä olen vanha mies, niinkuin
+sanoin. Ehkä minä en niitä sellaisia tarvitsekaan.
+
+Ja lapset — rakastakoot ja tulkoot onnellisiksi! Jumala suokoon, ettei
+heidän tulevaisuuttansa koskaan himmentäisi se kallis hinta, jolla
+ovat sen saavuttaneet (Sortuneena.) Minä luovun vaatimuksistani. Ja ne
+— ne toiset luopuvat myöskin — kun kerran minä — kun kerran mestari
+Garp on peräytynyt (Heltyneenä.) Nyt lähden minä täältä petturina
+ja konnana — siirryn johonkin loukkoon, jossa ei kukaan voi sylkeä
+minua silmille ja sanoa, että minä — (Itkemäisillään, mutta pakoittaa
+itseään.) Sen totuuden minä kuitenkin vielä sanon teille, patruuni,
+että työväen tila on parannettava. Ja kerran se on tehtäväkin. Tehkää
+tekin se puolestanne, niin pian kuin — voitte. Siinä teette ainoastaan
+velvollisuutenne ihmisenä. — Ja nyt — mestari Garpia ei enään ole
+olemassa (Aikoo mennä.)
+
+AHLSTRAND (Estää. Aikoo ottaa häntä kädestä.) Mestari Garp!
+
+GARP (Kiivaasti.) Ei, ei! — Tällaisia asioita minä en voi vahvistaa
+kädenlyönnillä (Tukahutetusti.) En.
+
+SIGRID (Tulee pelokkaana. Häntä seuraa rouva ja Alfred.) Ettekö mestari
+Garp? Ettekö isä?
+
+ROUVA. Ettekö ole sopineet?
+
+ALFRED. Anteeksi! Olimme niin levottomia.
+
+AHLSTRAND. Sovittu on. Kaikki on päätetty.
+
+ROUVA. No, se oli hyvä, Gustaf.
+
+ALFRED. Jumalan kiitos!
+
+SIGRID (Isänsä kaulaan.) Rakas isä!
+
+ALFRED (Garpille.) Saanko kiittää teitä, isä? (Ottaa Garpia kädestä,
+mutta Garp ei sitä huomaa.)
+
+SIGRID (Menee Garpin luo.) Hyvä isä Garp!
+
+_ERÄS TEHTAALAINEN_ (On tullut perälle.) Mestari Garp!
+
+AHLSTRAND. Vai niin! — Ovatko miehet vielä siellä alhaalla?
+
+TEHTAALAINEN. Juuri tekevät lähtöä. Päivällistunti loppuu.
+
+    (Tehtaan pilli soi.)
+
+AHLSTRAND. No, saman tekevä! — Tulitte parhaaseen aikaan. Mestari
+Garp ei enään tule tehtaalle. Te voitte ainakin vastaiseksi ottaa
+hoitaaksenne Garpin tehtävät (Tehtaalainen kumartaa.) Nyt voitte
+kiirehtiä toisten jälkeen ja ilmoittaa työväelle, että minä en voi
+suostua vaatimuksiinne, ennenkuin vähän tuonnempana (Tehtaalainen tekee
+epäröivän liikkeen. Katselee Garpia.) Siitä olemme sopineet mestari
+Garpin kanssa. Enkä muutenkaan tahtoisi enään tästä asiasta puhuttavan,
+koska tänään vietämme tyttäreni Sigridin ja tohtori Garpin kihlajaisia.
+Ilmoittakaa tämä tehtaalaisille ja sanokaa, että saavat tämän päivän
+vapaapäiväksi kahdenkertaisella palkalla. Illalla kokoontukoot
+juhlimaan huvilan puistoon!
+
+TEHTAALAINEN (Tyytyväisenä.) Minä kiitän kaikkein puolesta ja
+onnittelen herrasväkeä! (Garpille.) Iloisella soitolla piti annettaman
+kaikille tieto asian onnistumisesta. Soittokunta on paviljongissa ja
+odottaa merkkiä. Onko annettava?
+
+SIGRID (Riemuissaan.) Soittokunta! Tietysti! (Juoksee verannalla.)
+Heleijaa! (Heiluttaa nenäliinaa.) Soittakaa! Soittakaa! (Tulee alas.)
+Äiti, saanko itse johtaa juhlavalmistuksia? Saanko?
+
+ROUVA. Sen teemme yhdessä, lapseni.
+
+AHLSTRAND. Muistakaa komeasti!
+
+    (Torvisoittoa kuuluu.)
+
+ALFRED (Garpille.) Isä — saanko uskoa, että myönnyitte rakkaudesta?
+
+SIGRID (Alfredin kaulaan.) Tietysti hän meitä rakastaa, sanoinhan sen
+jo.
+
+TEHTAALAINEN (Toimessaan.) Minä riennän toimittamaan patruunin käskyjä.
+Hyvästi, herrasväki! Hyvästi mestari Garp!
+
+GARP. Hyvästi! (Vaipuu tuolille) — mestari Garp!
+
+    (Kaikki riemuitsevat.)
+
+        Esirippu.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 74634 ***
